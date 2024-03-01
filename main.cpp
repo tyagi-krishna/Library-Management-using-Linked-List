@@ -92,8 +92,8 @@ void deleteBook(string title) {
 int main() {
     initializeLibrary();
     addBookAtEnd("Hello", "Krishna", 123);
-    addBookAtEnd("Herro", "Krishna", 123);
-    addBookAtEnd("Hillo", "Krishna", 123);
+    addBookAtEnd("Hero", "Krishna", 123);
+    addBookAtEnd("Hill", "Krishna", 123);
     printLibrary();
     return 0;
 }
